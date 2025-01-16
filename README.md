@@ -28,5 +28,5 @@ service Order {
 python3 <源码的rocket_generator.py路径> -i <proto文件路径> -o <生成的框架代码路径>
 ```
 生成的文件夹目录结构如下：
-![alt text](image-1.png)
+![alt text](image.png)
 order下的interface下的make_orde.cc文件下的run方法写自己的业务逻辑。
