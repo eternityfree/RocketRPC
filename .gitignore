@@ -1,0 +1,7 @@
+bin/*
+lib/*
+obj/*
+log/*
+
+*.pb.h
+*.pb.cc
